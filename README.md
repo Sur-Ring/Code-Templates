@@ -1,2 +1,2 @@
 # Code-Templates
-Code templates
+Code templates for self-use.
